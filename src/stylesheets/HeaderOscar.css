@@ -3,4 +3,5 @@
     height: auto;
     padding: 20px;
     margin-bottom: 50px;
+    user-select: none;
 }
